@@ -57,7 +57,7 @@ Prior to my work in telecommunications, I apprenticed as an electrician performi
 
 __Python__ - Intermediate
 __SQL__ - Intermediate
-__Arcade__ - Intermediate to Advanced
+__Arcade__ - Intermediate
 __CSS__ - Advanced
 __R__ - Intermediate
 
